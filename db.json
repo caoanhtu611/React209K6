@@ -1,90 +1,47 @@
 {
   "products": [
     {
-      "id": 2,
-      "title": "iPhone X",
-      "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with ...",
-      "price": 899,
-      "discountPercentage": 17.94,
-      "rating": 4.44,
-      "stock": 34,
-      "brand": "Apple",
-      "category": "smartphones",
-      "thumbnail": "https://cdn.dummyjson.com/product-images/2/thumbnail.jpg",
-      "images": [
-        "https://cdn.dummyjson.com/product-images/2/1.jpg",
-        "https://cdn.dummyjson.com/product-images/2/2.jpg",
-        "https://cdn.dummyjson.com/product-images/2/3.jpg",
-        "https://cdn.dummyjson.com/product-images/2/thumbnail.jpg"
-      ]
+      "phonenumber": "03638888",
+      "email": "aton123@gmail.com",
+      "age": 234,
+      "name": "A Ton",
+      "id": 1
     },
     {
-      "id": 3,
-      "title": "Samsung Universe 9",
-      "description": "Samsung's new variant which goes beyond Galaxy to the Universe",
-      "price": 1249,
-      "discountPercentage": 15.46,
-      "rating": 4.09,
-      "stock": 36,
-      "brand": "Samsung",
-      "category": "smartphones",
-      "thumbnail": "https://cdn.dummyjson.com/product-images/3/thumbnail.jpg",
-      "images": ["https://cdn.dummyjson.com/product-images/3/1.jpg"]
+      "phonenumber": "0967425445",
+      "email": "tucaph30153@fpt.edu.vn",
+      "age": 22,
+      "name": "AnhTusVVip",
+      "id": 2
     },
     {
-      "id": 4,
-      "title": "OPPOF19",
-      "description": "OPPO F19 is officially announced on April 2021.",
-      "price": 280,
-      "discountPercentage": 17.91,
-      "rating": 4.3,
-      "stock": 123,
-      "brand": "OPPO",
-      "category": "smartphones",
-      "thumbnail": "https://cdn.dummyjson.com/product-images/4/thumbnail.jpg",
-      "images": [
-        "https://cdn.dummyjson.com/product-images/4/1.jpg",
-        "https://cdn.dummyjson.com/product-images/4/2.jpg",
-        "https://cdn.dummyjson.com/product-images/4/3.jpg",
-        "https://cdn.dummyjson.com/product-images/4/4.jpg",
-        "https://cdn.dummyjson.com/product-images/4/thumbnail.jpg"
-      ]
-    },
-    {
-      "id": 5,
-      "title": "Huawei P30",
-      "description": "Huawei’s re-badged P30 Pro New Edition was officially unveiled yesterday in Germany and now the device has made its way to the UK.",
-      "price": 499,
-      "discountPercentage": 10.58,
-      "rating": 4.09,
-      "stock": 32,
-      "brand": "Huawei",
-      "category": "smartphones",
-      "thumbnail": "https://cdn.dummyjson.com/product-images/5/thumbnail.jpg",
-      "images": [
-        "https://cdn.dummyjson.com/product-images/5/1.jpg",
-        "https://cdn.dummyjson.com/product-images/5/2.jpg",
-        "https://cdn.dummyjson.com/product-images/5/3.jpg"
-      ]
-    },
-    {
-      "id": 6,
-      "title": "MacBook Pro",
-      "description": "MacBook Pro 2021 with mini-LED display may launch between September, November",
-      "price": 1749,
-      "discountPercentage": 11.02,
-      "rating": 4.57,
-      "stock": 83,
-      "brand": "Apple",
-      "category": "laptops",
-      "thumbnail": "https://cdn.dummyjson.com/product-images/6/thumbnail.png",
-      "images": [
-        "https://cdn.dummyjson.com/product-images/6/1.png",
-        "https://cdn.dummyjson.com/product-images/6/2.jpg",
-        "https://cdn.dummyjson.com/product-images/6/3.png",
-        "https://cdn.dummyjson.com/product-images/6/4.jpg"
-      ]
+      "name": "Product 1",
+      "age": 19,
+      "email": "snake201@gmail.com",
+      "phonenumber": "0967425445",
+      "id": 3
     }
   ],
-  "users": []
+  "users": [
+    {
+      "email": "tucaph30153@fpt.edu.vn",
+      "password": "$2a$10$d2OTp2qyd9MreFij7x.4Y.9yLKKEMN/pjFiFY7/LPzb.eYeUHqfr.",
+      "id": 1
+    },
+    {
+      "email": "tucaph30153@fpt.edu.vn1",
+      "password": "$2a$10$0uN.xtRL/Rywc251SKjZHeIIc7qaWYiu14Q5UV9Q4rWbx8tvpGiye",
+      "id": 2
+    },
+    {
+      "email": "tucaph30153@fpt.edu.vn2",
+      "password": "$2a$10$Ki3UcHNPaOijxBlg/mdaIO8szUKjpkeKCSkVasJFpkist7nwPHJa.",
+      "id": 3
+    },
+    {
+      "email": "snake@gmail.com",
+      "password": "$2a$10$EM0.tF7G/M702oMK7nfNjuZgWF7qmKMzmf8nWjsZwSWAs1sTEtMOC",
+      "id": 4
+    }
+  ]
 }
